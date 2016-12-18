@@ -1,0 +1,57 @@
+/* css for ajax chatroom */
+.tabletop{
+    background: midnightblue;
+    color: mintcream;
+    border: solid 1px white;
+    padding: 10px 10px;
+    width: 300px;
+}
+
+table{
+	min-height:400px;
+	height: 400px;
+	width: 800px;
+	overflow-y: auto;
+}
+
+.chatMessage{
+	padding:0;
+	height:15px;
+}
+.userColumn{
+	width:100px;
+}
+
+/*.tablemiddle{
+    border: solid 1px black;
+    padding-left: 15px;
+    padding-bottom: 370px;
+    height: 400px;
+}
+
+.tablebottom{
+    padding-top: 20px;
+    border: solid 1px black;
+    padding-bottom: 20px;
+}
+.tableleft{
+    width: 30%;
+}
+table{
+    width: 600px;
+}
+
+label{
+    padding-right: 78px;
+    padding-left: 10px;
+}
+#txt_message{
+    width: 55%;
+}
+button{
+    margin-left: 20px;
+}
+
+form{
+    padding: 30px;
+}*/
